@@ -1,7 +1,7 @@
 # Home_Sales
 Home Sales Analysis with SparkSQL
 
-Welcome to the Home Sales Analysis project, where we leverage the power of SparkSQL to gain valuable insights from home sales data. The analysis is encapsulated in the Home_sales_colab.ipynb file, meticulously crafted using Google Colab.
+Welcome to the Home Sales Analysis project, where SparkSQL was used to gain valuable insights from home sales data. The analysis is encapsulated in the Home_sales_colab.ipynb file, meticulously crafted using Google Colab.
 
 Key Features
 
